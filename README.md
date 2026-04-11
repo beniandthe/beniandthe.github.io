@@ -1,4 +1,4 @@
-# beniandthe.github.io
+# Benjamin Rossman Portfolio
 
 # Homebrew Helper
 www.homebrew-helper.com
