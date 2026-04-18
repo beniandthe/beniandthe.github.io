@@ -1,0 +1,22 @@
+<svg width="620" height="180" viewBox="0 0 620 180" fill="none" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title desc" role="img">
+  <title id="title">Woofer wordmark</title>
+  <desc id="desc">A lowercase Woofer wordmark with a large navy paw and a smaller teal paw replacing the two o letters.</desc>
+  <g fill="#1E416C">
+    <text x="18" y="124" font-family="'Nunito Sans', Manrope, 'Segoe UI', sans-serif" font-size="104" font-weight="800" letter-spacing="-8">w</text>
+    <text x="372" y="124" font-family="'Nunito Sans', Manrope, 'Segoe UI', sans-serif" font-size="104" font-weight="800" letter-spacing="-8">fer</text>
+  </g>
+  <g transform="translate(138 34) scale(1.18)">
+    <circle cx="18" cy="16" r="7" fill="#1E416C"/>
+    <circle cx="31" cy="11" r="7" fill="#1E416C"/>
+    <circle cx="46" cy="16" r="7" fill="#1E416C"/>
+    <circle cx="56" cy="28" r="6" fill="#1E416C"/>
+    <path d="M32.3916 24.5C41.2905 24.5 48.5 31.6402 48.5 40.4461C48.5 49.2521 41.2905 56.3923 32.3916 56.3923C23.4926 56.3923 16.2832 49.2521 16.2832 40.4461C16.2832 31.6402 23.4926 24.5 32.3916 24.5Z" fill="#1E416C"/>
+  </g>
+  <g transform="translate(294 58) scale(0.8)">
+    <circle cx="18" cy="16" r="7" fill="#4DC7C7"/>
+    <circle cx="31" cy="11" r="7" fill="#4DC7C7"/>
+    <circle cx="46" cy="16" r="7" fill="#4DC7C7"/>
+    <circle cx="56" cy="28" r="6" fill="#4DC7C7"/>
+    <path d="M32.3916 24.5C41.2905 24.5 48.5 31.6402 48.5 40.4461C48.5 49.2521 41.2905 56.3923 32.3916 56.3923C23.4926 56.3923 16.2832 49.2521 16.2832 40.4461C16.2832 31.6402 23.4926 24.5 32.3916 24.5Z" fill="#4DC7C7"/>
+  </g>
+</svg>
